@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="banner-power-bi" src="https://github.com/user-attachments/assets/cd639f07-3659-4d52-a362-04f9b14d6411" />
+
 # Microsoft Power BI for Business Intelligence
 
 Portfólio de projetos desenvolvidos com Microsoft Power BI, abrangendo Business Intelligence, modelagem de dados, Power Query, linguagem M, DAX, visualização de dados e análises aplicadas a diferentes áreas de negócio.
@@ -13,7 +15,8 @@ Este repositório reúne projetos desenvolvidos durante minha jornada de aprendi
 - Linguagem M
 - DAX
 - Modelagem de Dados
-- R
+- Linguagem ![Uploading img.png…]()
+R
 - Python
 
 ## Projetos
