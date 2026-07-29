@@ -43,7 +43,7 @@ Cada projeto representa uma aplicação prática dos conhecimentos adquiridos du
 | **09** | Análise do Mercado de Ações |
 | **10** | Modelagem de Dados e Linguagem M |
 | **11** | Segmentação Inteligente de Clientes com R e Python |
-| **12** | Detecção de Anomalias em Transações Financeiras com R e Power BI |
+| **12** | Detecção em Transações Financeiras com R |
 | **13** | Previsão de Séries Temporais com R e Python |
 
 ---
@@ -57,8 +57,8 @@ Cada projeto representa uma aplicação prática dos conhecimentos adquiridos du
 - Modelagem de Dados
 - Business Intelligence
 - Visualização de Dados
-- R
-- Python
+- Linguagem R
+- Linguagem Python
 
 ---
 
@@ -135,7 +135,7 @@ certificado/
 
 **Renata Dourado**
 
-Engenheira Química em transição para a área de Dados, com foco em Business Intelligence, Engenharia de Dados, Analytics e Ciência de Dados.
+Full Stack Data & Analytics Student | Chemical Engineer |  SQL | Python | Power BI |
 
 ---
 
