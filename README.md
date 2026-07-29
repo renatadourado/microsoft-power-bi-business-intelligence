@@ -107,6 +107,7 @@ certificado/
 
 ---
 
+
 # 📌 Diferenciais deste Portfólio
 
 ✔ Organização modular
