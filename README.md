@@ -41,9 +41,9 @@ Cada projeto representa uma aplicação prática dos conhecimentos adquiridos du
 | **07** | Análise Financeira |
 | **08** | Análise Contábil |
 | **09** | Análise do Mercado de Ações |
-| **10** | Modelagem de Dados e Linguagem M |
+| **10** | Modelagem de Dados e Lang. M |
 | **11** | Segmentação Inteligente de Clientes com R e Python |
-| **12** | Detecção em Transações Financeiras com Linguagem R |
+| **12** | Detecção em Transações Financeiras com Lang. R |
 | **13** | Previsão de Séries Temporais com R e Python |
 
 ---
